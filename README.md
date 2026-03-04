@@ -4,6 +4,8 @@
 </map>
 <img src="./Header_bg.jpg" usemap="#header-map" alt="MD_Rehan2001" width="1000" />
 
+> *"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."*
+> — **Richard Feynman**
 </div>
 
 - 🚀 I'm currently **Senior Software Engineer** <!-- # at [Chronos Finance](https://Link) -->
@@ -116,54 +118,33 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" width="226" height="226" alt="HuggingFace" />
 </p>
 
+---
 
-<!--
+<!--## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rehan2001&theme=darkhub&no-frame=true&row=1) -->
 
-## 🛠️ Languages and Tools
+---
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-</p>
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=Rehan2001&theme=dark&hide_border=true)
 
-### Blockchain
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-  <img src="https://skillicons.dev/icons?i=web3js" width="48" height="48" alt="Web3.js" />
-  <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat" />
-</p>
+---
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-</p>
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan2001&theme=react-dark&hide_border=true)
 
+---
 
+## 💡 Dev Quote
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-</p>
+> "I have no special talent. I am only passionately curious."
+> — **Richard Feynman**
+---
 
--->
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=Rehan2001&color=blue&style=flat-square)
+
 
 <div align="center">
 
