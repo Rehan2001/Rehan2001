@@ -2,7 +2,7 @@
 
 <map name="header-map">
 </map>
-<img src="./Header_bg.jpg" usemap="#header-map" alt="MD_Rehan2001" width="1000" height="600" />
+<img src="./Header_bg.jpg" usemap="#header-map" alt="MD_Rehan2001" width="900" height="600" />
 
 > *"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."*
 > — **Richard Feynman**
